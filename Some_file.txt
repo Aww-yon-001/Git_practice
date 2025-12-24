@@ -1,5 +1,8 @@
-Hi This File is maintained by the owner
+We have two participant who talks back and forth
+this simulates a git push by two different user
+which helps to understand how PR request, merge and merge conflict happens
 
-Don't you dare to touch it
+participant
 
-Fuck you
+Aww-yon-001 (Child)
+M-Ayan-001 (Parent)
